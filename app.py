@@ -19,4 +19,4 @@ def bad():
     except TypeError as e:                                                                                                                        
         print(e)                                                                                                                                  
     except TypeError as e:                                                                                                                        
-        print("Obrigado Gabi - Acho que estou entendendo! :D.")
+        print("Novos Testes")
